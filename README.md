@@ -26,7 +26,7 @@ This project is focused on scraping data from the website `tratencongty.com`. Th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/1DangQuang1/Company-Data-Ingestion-from-tratencongty.com
    cd your-repository
    ```
 

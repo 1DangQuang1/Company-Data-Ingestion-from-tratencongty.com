@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is focused on scraping data from the website `tratencongty.com`. The main goal is to extract company information, including Tax ID numbers and phone numbers, using Python's `BeautifulSoup` and `Requests` libraries for web scraping. However, the website presents a challenge: the Tax ID and phone numbers are displayed as images rather than text. To overcome this, I used the `Tesseract` OCR (Optical Character Recognition) engine to extract text from the images.
+This project is focused on scraping data from the website `tratencongty.com`. The main goal is to extract company information, including Tax ID numbers and phone numbers, using Python's `BeautifulSoup` and `Requests` libraries for web scraping. However, the website presents a challenge: the Tax ID and phone numbers are displayed as images rather than text. To figure out, I used the `Tesseract` OCR (Optical Character Recognition) engine to extract text from the images.
 
 ## Key Features
 
